@@ -104,7 +104,7 @@ Result written to C:\Users\Lydia\Desktop\ALU\SpareMatrix\results\easy_sample_03_
 To test the addition operation, you can run the following command:
 
 ```bash
-node main.js add sample_input_for_students/easy_sample_01_1.txt sample_inputs/easy_sample_01_2.txt
+node main.js add sample_input_for_students/easy_sample_01_1.txt sample_inputs/easy_sample_01_1.txt
 ```
 
 This command will perform the addition of `easy_sample_01_2.txt` to `easy_sample_01_1.txt` and save the result in the `results` directory.
